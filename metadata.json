@@ -1,0 +1,5 @@
+{
+  "name": "TextScope",
+  "description": "A comprehensive React-based text analysis tool featuring lexical analysis, tokenization, lemmatization, stemming, POS tagging, and sentiment analysis.",
+  "requestFramePermissions": []
+}
